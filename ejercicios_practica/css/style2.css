@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+  body {
+    width: 100%;
+  }
+
+  article {
+    width: fit-content;
+    margin: 20px;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #1c2c1a;
+  }
+
+  .nombre {
+    color: green;
+    font-size: 40px;
+  }
+
+  .dni {
+    color: violet;
+    font-size: 25px;
+  }
